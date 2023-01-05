@@ -1,0 +1,1 @@
+create project  NET  By LSTM in to Goole.colab
